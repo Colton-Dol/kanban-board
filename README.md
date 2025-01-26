@@ -1,5 +1,7 @@
 # Kanban Board
 
+![Ticket Board](/assets/ticketBoard.png)
+
 ## Description
 
 With this website you can create and manage tickets. 
